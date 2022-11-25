@@ -8,6 +8,7 @@ xls_path = 'sample/*.xls'
 new_path = 'sample_out'
 csv_path = f'{new_path}/*.csv'
 
+
 def create_folder(new_path):
     if not os.path.exists(new_path):
         os.makedirs(new_path)

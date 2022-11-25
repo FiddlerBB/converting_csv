@@ -26,7 +26,6 @@ def convert_csv(xls_path):
 def combine_csv(csv_path):
     df = pd.DataFrame()
     for file in glob.glob(csv_path):
-        name = os.path.basename(file)
         df = pd.concat([df, pd.read_csv(file)])
     df.to_csv('combined.csv', index=False)
 

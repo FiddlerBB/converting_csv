@@ -1,2 +1,7 @@
 *.csv
 *.xls
+*.zip
+*.7z
+venv
+__pycache__
+*__init__.py

@@ -1,0 +1,23 @@
+Lương				
+Thưởng				
+Tháng 13				
+Tăng ca	OT			
+				
+Lãi vay				
+Ngân hàng	Phí ngân hàng			
+Chi phí nhân công				
+Chi phí thuê ngoài	Thuê			
+Văn phòng phẩm	Office expense	VPP		
+Bảo hiểm xã hội	BHXH	BHBB		
+Tiền điện	Điện			
+Tiền nước	Nước			
+Rác thải				
+Thuế				
+Phạt				Cái này là Non-deductible
+Chi phí khấu hao	Depreciation			
+Chi phí phân bổ	Allocation			
+Cước vận chuyển				
+Phí chuyển phát				
+Phụ cấp				
+Kết chuyển				
+Nguyên vật liệu				

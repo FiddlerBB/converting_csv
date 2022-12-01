@@ -1,5 +1,6 @@
 *.csv
 *.xls
+*.xlsx
 *.zip
 *.7z
 venv

@@ -29,8 +29,8 @@ def no_accent_vietnamese(s):
     s = re.sub(r'[đĐ]', 'd', s)
     return s
 
-def retun_keyword(column, key_words):
+def return_keyword(column, key_words):
     for i in key_words:
         if i in column:
             return i
-    return np.nan
+    return ''
